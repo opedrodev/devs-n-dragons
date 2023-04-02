@@ -1,10 +1,5 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Devs N Dragons
+
+Welcome to "Devs n Dragons" - a personal project created to help me practice my coding skills in the context of RPG games.
+
+This project is based on the principles of Object-Oriented Programming (OOP) and SOLID principles, which are essential concepts for any software developer to master. By working on this project, I aim to apply these principles in a practical setting and gain hands-on experience with real-world development challenges.
